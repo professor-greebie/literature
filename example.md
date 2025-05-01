@@ -5,6 +5,7 @@
 ```mermaid
 
 mindmap
+root
   item one
     item one one
     item one two
